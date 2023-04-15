@@ -36,7 +36,7 @@ function App() {
     <BrowserRouter basename='/react-app'>
       <Routes>
         
-        <Route path='/react-app' element={<Coins coins={coins}/> } />
+        <Route exact path='/react-app' element={<Coins coins={coins}/> } />
         <Route path='/coin' element={<Coin/>}>
           <Route path=':coinId' element={<Coin/>}/>
 
