@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Cryptonik/static/css/main.ea58c55e.css",
-    "main.js": "/Cryptonik/static/js/main.849330cc.js",
+    "main.js": "/Cryptonik/static/js/main.43af78bd.js",
     "index.html": "/Cryptonik/index.html",
     "main.ea58c55e.css.map": "/Cryptonik/static/css/main.ea58c55e.css.map",
-    "main.849330cc.js.map": "/Cryptonik/static/js/main.849330cc.js.map"
+    "main.43af78bd.js.map": "/Cryptonik/static/js/main.43af78bd.js.map"
   },
   "entrypoints": [
     "static/css/main.ea58c55e.css",
-    "static/js/main.849330cc.js"
+    "static/js/main.43af78bd.js"
   ]
 }
