@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Elgarrai-Hamza/Cryptonik/static/css/main.ea58c55e.css",
-    "main.js": "/Elgarrai-Hamza/Cryptonik/static/js/main.d0e6a87c.js",
-    "index.html": "/Elgarrai-Hamza/Cryptonik/index.html",
-    "main.ea58c55e.css.map": "/Elgarrai-Hamza/Cryptonik/static/css/main.ea58c55e.css.map",
-    "main.d0e6a87c.js.map": "/Elgarrai-Hamza/Cryptonik/static/js/main.d0e6a87c.js.map"
+    "main.css": "/Cryptonik/static/css/main.ea58c55e.css",
+    "main.js": "/Cryptonik/static/js/main.849330cc.js",
+    "index.html": "/Cryptonik/index.html",
+    "main.ea58c55e.css.map": "/Cryptonik/static/css/main.ea58c55e.css.map",
+    "main.849330cc.js.map": "/Cryptonik/static/js/main.849330cc.js.map"
   },
   "entrypoints": [
     "static/css/main.ea58c55e.css",
-    "static/js/main.d0e6a87c.js"
+    "static/js/main.849330cc.js"
   ]
 }
