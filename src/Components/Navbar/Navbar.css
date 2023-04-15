@@ -1,0 +1,22 @@
+.navbar h1{
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: 700;
+    margin: 0;
+    color: cornflowerblue;
+   
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.5rem;
+}
+
+.navbar h1:hover{
+    background-color: #191B1F;
+}

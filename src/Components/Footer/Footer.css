@@ -1,0 +1,29 @@
+footer{
+    
+    height: auto;
+    width: 100%;
+    padding-top: 30px;
+    position: absolute;
+    right: 0;
+    
+}
+
+.footer-1{
+    background-color: #1F2128;
+    width: 100%;
+    padding: 5px 0;
+    text-align: center;
+}
+.footer-1 p{
+    font-size: 14.5px;
+    word-spacing: 2px;
+    color: #f6f6f6;
+}
+.footer-1 a{
+    font-size: 15px;
+    text-decoration: none;
+    color: cornflowerblue;
+}
+.footer-1 a:hover{
+    background-color: #1F2128;
+}
